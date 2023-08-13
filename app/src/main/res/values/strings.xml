@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">gusB01</string>
+    <string name="save_term">Save Term</string>
+    <string name="delete_term">Delete Term</string>
+    <string name="add_sample_courses">Add Sample Courses</string>
+    <string name="channel_name">gusChannel</string>
+    <string name="channel_description">Notifications for App</string>
+</resources>
